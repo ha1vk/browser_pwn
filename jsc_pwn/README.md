@@ -52,6 +52,16 @@ jsc vuln that i debugged.
 
     finished date: 2020
 
+* FireShell-ctf-2020-The-Return-of-the-Side-Effect
+
+    description: CompareEq side effect.
+
+    writeup: [FireShell CTF 2020 Writeups](https://ptr-yudai.hatenablog.com/entry/2020/03/23/105837)
+
+    official link: None
+
+    finished date: 2020
+
 
 
 
