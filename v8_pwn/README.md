@@ -232,5 +232,15 @@ v8 vuln that i debugged.
 
     finished date: 2020
 
+* xnuca2020-babyV8
+
+    description: wrong patch for BuildAppendJSArray.
+
+    writeup: None
+
+    official link: None
+
+    finished date: 2020
+
 
 
