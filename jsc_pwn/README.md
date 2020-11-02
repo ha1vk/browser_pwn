@@ -62,6 +62,16 @@ jsc vuln that i debugged.
 
     finished date: 2020
 
+* issue-201853
+
+    description: CheckArray on DirectArguments/ScopedArguments does not filter out slow put array storage.
+
+    writeup: None
+
+    official link: [commit](https://github.com/Webkit/webkit/commit/31e110658be7095399fa49b5093a2f48feccad82)
+
+    finished date: 2020
+
 
 
 
