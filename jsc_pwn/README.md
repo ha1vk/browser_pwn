@@ -74,13 +74,23 @@ jsc vuln that i debugged.
 
 * cve-2017-13884
 
-    description: Side effect of ArithClz32, pwn2own 2018.
+    description: Side effect of ArithClz32, pwn2own 2017.
 
     writeup: None
 
     official link: [commit](https://github.com/WebKit/WebKit-http/commit/b894a6b502430474658e83c63d99cf965091f978)
 
-    finished date: 2020
+    finished date: 2021
+
+* issue 179212
+
+    description: Side effect of GetPropertyEnumerator, pwn2own 2017.
+
+    writeup: None
+
+    official link: [commit](https://github.com/WebKit/WebKit-http/commit/b894a6b502430474658e83c63d99cf965091f978)
+
+    finished date: 2021
 
 
 
